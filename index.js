@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('De verdad? AAAAAA que soi felii, te amo mua mua mua<3')
+    alert('De verdad? AAAAAA que feli soy, te amo mua mua mua<3')
 });
 
 const noBtn = document.querySelector('#noBtn');
